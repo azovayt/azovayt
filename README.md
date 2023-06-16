@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <p align="center">
-<h5>🌱 I’m currently learning **Vue.js**</h5>
-<h5>📝 I regularly write articles on [https://azovayt.github.io/](https://azovayt.github.io/)</h5>
-<h5>📄 Know about my experiences (https://www.linkedin.com/in/azovayt/](https://www.linkedin.com/in/azovayt/)</h5>
+<h5 align="center">🌱 I’m currently learning **Vue.js**</h5>
+<h5 align="center">📝 I regularly write articles on (https://azovayt.github.io/](https://azovayt.github.io/)</h5>
+<h5 align="center">📄 Know about my experiences (https://www.linkedin.com/in/azovayt/](https://www.linkedin.com/in/azovayt/)</h5>
 </p>
 
 <h3 align="center">Connect with me:</h3>
