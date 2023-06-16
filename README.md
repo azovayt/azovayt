@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
+<p align="center">
 - 🌱 I’m currently learning **Vue.js**
 
 - 📝 I regularly write articles on [https://azovayt.github.io/](https://azovayt.github.io/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/azovayt/](https://www.linkedin.com/in/azovayt/)
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
