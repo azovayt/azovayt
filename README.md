@@ -2,11 +2,10 @@
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <p align="center">
-- 🌱 I’m currently learning **Vue.js**
+<h2>🌱 I’m currently learning **Vue.js**</h2>
+<h2>📝 I regularly write articles on [https://azovayt.github.io/](https://azovayt.github.io/)</h2>
 
-- 📝 I regularly write articles on [https://azovayt.github.io/](https://azovayt.github.io/)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/azovayt/](https://www.linkedin.com/in/azovayt/)
+📄 Know about my experiences [https://www.linkedin.com/in/azovayt/](https://www.linkedin.com/in/azovayt/)
 </p>
 
 <h3 align="center">Connect with me:</h3>
