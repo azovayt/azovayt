@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">Jr. Game Developer | Bilişim Teknolojileri ve Yazılım Öğretmeni | Hacettepe Üniversitesi</h3>
 
 <p align="center">
 <p align="center">🌱 I’m currently learning **Vue.js**</p>
