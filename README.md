@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdulaziz</h1>
+<h1 align="center">Merhaba 👋, Ben Abdulaziz</h1>
 <h3 align="center">Jr. Game Developer | Bilişim Teknolojileri ve Yazılım Öğretmeni | Hacettepe Üniversitesi 🎓</h3>
 
 <p align="center">
-<p align="center">🌱 I’m currently learning **Vue.js**</p>
-<p align="center">📝 I regularly write articles on (https://azovayt.github.io/)</p>
-<p align="center">📄 Know about my experiences (https://www.linkedin.com/in/azovayt/)</p>
+<p align="center">🌱 Şu anda öğreniyorum **Vue.js**</p>
+<p align="center">📝 Blog sayfam (https://azovayt.github.io/)</p>
 </p>
 
 <h3 align="center">Connect with me:</h3>
