@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azovayt&label=Profile%20views&color=0e75b6&style=flat" alt="azovayt" /> </p>
-
 - 🌱 I’m currently learning **Vue.js**
 
 - 📝 I regularly write articles on [https://azovayt.github.io/](https://azovayt.github.io/)
