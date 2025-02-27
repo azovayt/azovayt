@@ -1,8 +1,8 @@
 <h1 align="center">Merhaba 👋, Ben Abdulaziz</h1>
-<h3 align="center">Jr. Frontend Developer | Bilişim Teknolojileri ve Yazılım Öğretmeni | Hacettepe Üniversitesi 🎓</h3>
+<h3 align="center">Jr. Software Developer | Bilişim Teknolojileri ve Yazılım Öğretmeni | Hacettepe Üniversitesi 🎓</h3>
 
 <p align="center">
-<p align="center">🌱 Şu Anda Öğreniyorum: **React.js**</p>
+<p align="center">🌱 Şu Anda Öğreniyorum: **React.js/Unity/Blender**</p>
 <p align="center">📝 Blog Sayfam: (https://azovayt.github.io/)</p>
 </p>
 
