@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba 👋, Ben Abdulaziz Beyaz</h1>
 <h3 align="center">Jr. Game Developer & 3D Artist | Unity | Blender</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.artstation.com/azovayt](https://www.artstation.com/azovayt)
+- 👨‍💻 Portfolyo [https://www.artstation.com/azovayt](https://www.artstation.com/azovayt)
 
-- 📝 I regularly write articles on [https://azovayt.github.io/](https://azovayt.github.io/)
+- 📝 blog [https://azovayt.github.io/](https://azovayt.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
