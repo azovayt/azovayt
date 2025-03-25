@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba 👋, Ben Abdulaziz Beyaz</h1>
-<h3 align="center">Jr. Jr. Software Developer</h3>
+<h3 align="center">Jr. Software Developer | Bilişim Teknolojileri ve Yazılım Öğretmeni</h3>
 
-- 👨‍💻 Portfolyo [https://www.artstation.com/azovayt](https://www.artstation.com/azovayt)
+<h3 align="center">- 👨‍💻 Portfolyo [https://www.artstation.com/azovayt](https://www.artstation.com/azovayt)</h3>
 
-- 📝 blog [https://azovayt.github.io/](https://azovayt.github.io/)
+<h3 align="center">- 📝 blog [https://azovayt.github.io/](https://azovayt.github.io/)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
