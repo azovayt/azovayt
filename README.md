@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Abdulaziz Beyaz</h1>
-<h3 align="center">Jr. Game Developer & 3D Artist | Unity | Blender</h3>
+<h3 align="center">Jr. Jr. Software Developer</h3>
 
 - 👨‍💻 Portfolyo [https://www.artstation.com/azovayt](https://www.artstation.com/azovayt)
 
