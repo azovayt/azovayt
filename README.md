@@ -1,8 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Abdulaziz Beyaz</h1>
 <h3 align="center">Jr. Frontend Developer | React | React Native | Bilişim Teknolojileri ve Yazılım Öğretmeni</h3>
 
-<h3 align="center">👨‍💻 Portfolyo [https://www.artstation.com/azovayt]</h3>
-
 <h3 align="center">📝 blog [https://azovayt.github.io/]</h3>
 
 <h3 align="center">Connect with me:</h3>
