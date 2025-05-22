@@ -5,17 +5,25 @@
 
 ### 🌟 Hakkımda
 
-Bilişim Teknolojileri ve Yazılım Öğretmeni kimliğimle edindiğim pedagojik bilgiyi, **Frontend Geliştirme** tutkumla birleştiriyorum. Özellikle **React** ve **React Native** teknolojileriyle kullanıcı dostu ve dinamik arayüzler geliştirmeye odaklanmış, problem çözmeyi seven bir Junior Frontend Developer'ım. Sürekli öğrenmeye ve kendimi geliştirmeye hevesliyim.
+Hacettepe Üniversitesi **Bilgisayar ve Öğretim Teknolojileri Öğretmenliği** mezunu bir **Jr. Frontend Developer**'ım. HTML5, CSS3, JavaScript, React.js ve React Native gibi modern frontend teknolojilerindeki yetkinliklerimi, **kullanıcı odaklı tasarımlar** ve **dinamik arayüzler** geliştirmeye olan tutkumla birleştiriyorum. Öğretmenlik formasyonumdan gelen **pedagojik yaklaşım** ve **problem çözme** becerilerimle, hem web hem de mobil platformlarda yenilikçi ve etkili çözümler üretmeyi hedefliyorum.
+
+Jandarma ve Sahil Güvenlik Akademisi'ndeki Asteğmenlik görevim süresince edindiğim **liderlik, proje koordinasyonu ve kriz yönetimi** deneyimlerim, yazılım geliştirme süreçlerinde **ekip çalışması** ve **disiplinli yaklaşım** konularında bana önemli katkılar sağladı. Sürekli öğrenmeye ve kendimi geliştirmeye olan bağlılığımla, teknoloji dünyasındaki en güncel gelişmeleri takip ederek projelerime değer katmayı amaçlıyorum.
 
 ---
 
-### 🌐 Benimle İletişime Geçin
+### 🚀 Öne Çıkan Projelerim
 
-<p align="center">
-<a href="https://twitter.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azovayt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azovayt" height="30" width="40" /></a>
-<a href="https://instagram.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azovayt" height="30" width="40" /></a>
-<a href="https://azovayt.github.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blog" height="30" width="40" /></a> </p>
+* **Sahibinden Clone | React Native Mobil Uygulama**
+    React Native ve Expo ile geliştirilen bu mobil uygulama, VPS sunucusundaki Strapi backend ile entegre çalışır. Dinamik kategori gezinme, ürün listeleme ve ilan oluşturma gibi özellikler sunar. NativeWind ile modern bir arayüz tasarlanmış, Expo Router ile akıcı navigasyon sağlanmıştır.
+    **[GitHub Reposu](https://github.com/azovayt/sahibinden-clone-mobile-app)**
+
+* **Bilgisayar ve Mobil Oyunlardaki Siber Zorbalık ve Tehditler (Mobil Uygulama Tasarımı)**
+    Öğrencilere siber zorbalık hakkında farkındalık kazandırmayı amaçlayan bir mobil uygulama tasarımı projesidir. **BTÖ419 Eğitim Yazılımı Tasarlama, Geliştirme ve Değerlendirme** dersi kapsamında geliştirilmiştir.
+    **[Proje](https://github.com/user-attachments/files/20391035/MobileAppMockup.pdf)**
+
+* **Space Platform (Eğitsel Oyun - Unity)**
+    5. ve 6. sınıf öğrencilerine yönelik, algoritma kavramını daha iyi anlamalarını sağlamak amacıyla Unity oyun motoruyla geliştirilmiş 2D eğitsel bir oyundur. **BTÖ422 Eğitsel Oyun ve Oyunlaştırma** dersi kapsamında yapılmıştır.
+    **[Proje](https://github.com/user-attachments/files/20391063/SpacePlatform.pdf)**
 
 ---
 
@@ -41,14 +49,25 @@ Bilişim Teknolojileri ve Yazılım Öğretmeni kimliğimle edindiğim pedagojik
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=azovayt&show_icons=true&locale=en&theme=radical" alt="Abdulaziz'in GitHub İstatistikleri" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azovayt&theme=radical" alt="Abdulaziz'in GitHub Seri İstatistikleri" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azovayt&show_icons=true&locale=en&theme=radical&hide_title=true" alt="Abdulaziz'in GitHub İstatistikleri" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azovayt&theme=radical&hide_title=true" alt="Abdulaziz'in GitHub Seri İstatistikleri" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azovayt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Abdulaziz'in En Çok Kullandığı Diller" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azovayt&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true" alt="Abdulaziz'in En Çok Kullandığı Diller" />
 </p>
 
 ---
+
+### 🌐 Benimle İletişime Geçin
+
+<p align="center">
+<a href="https://twitter.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azovayt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azovayt" height="30" width="40" /></a>
+<a href="https://instagram.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azovayt" height="30" width="40" /></a>
+<a href="https://azovayt.github.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blog" height="30" width="40" /></a> 
+<a href="mailto:aziz.beyaz@outlook.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="40" /></a> 
+<a href="https://www.artstation.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/color/48/000000/artstation.png" alt="ArtStation" height="30" width="40" /></a> 
+</p>
