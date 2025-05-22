@@ -11,6 +11,19 @@ Jandarma ve Sahil Güvenlik Akademisi'ndeki Asteğmenlik görevim süresince edi
 
 ---
 
+### 🌐 Benimle İletişime Geçin
+
+<p align="center">
+<a href="https://twitter.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azovayt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azovayt" height="30" width="40" /></a>
+<a href="https://instagram.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azovayt" height="30" width="40" /></a>
+<a href="https://azovayt.github.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="Blog" height="30" width="40" /></a> 
+<a href="mailto:aziz.beyaz@outlook.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="40" /></a> 
+<a href="https://www.artstation.com/azovayt" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/color/48/000000/artstation.png" alt="ArtStation" height="30" width="40" /></a> 
+</p>
+
+---
+
 ### 🚀 Öne Çıkan Projelerim
 
 * **Sahibinden Clone | React Native Mobil Uygulama**
