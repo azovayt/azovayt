@@ -28,7 +28,7 @@ Jandarma ve Sahil Güvenlik Akademisi'ndeki Asteğmenlik görevim süresince edi
 
 * **Sahibinden Clone | React Native Mobil Uygulama**
     React Native ve Expo ile geliştirilen bu mobil uygulama, VPS sunucusundaki Strapi backend ile entegre çalışır. Dinamik kategori gezinme, ürün listeleme ve ilan oluşturma gibi özellikler sunar. NativeWind ile modern bir arayüz tasarlanmış, Expo Router ile akıcı navigasyon sağlanmıştır.
-    **[GitHub Reposu](https://github.com/azovayt/sahibinden-clone-mobile-app)**
+    **[GitHub Reposu](https://github.com/azovayt/sahibinden-clone)**
 
 * **Bilgisayar ve Mobil Oyunlardaki Siber Zorbalık ve Tehditler (Mobil Uygulama Tasarımı)**
     Öğrencilere siber zorbalık hakkında farkındalık kazandırmayı amaçlayan bir mobil uygulama tasarımı projesidir. **BTÖ419 Eğitim Yazılımı Tasarlama, Geliştirme ve Değerlendirme** dersi kapsamında geliştirilmiştir.
