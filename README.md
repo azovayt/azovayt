@@ -27,7 +27,7 @@ Jandarma ve Sahil Güvenlik Akademisi'ndeki Asteğmenlik görevim süresince edi
 ### 🚀 Öne Çıkan Projelerim
 
 * **Sahibinden Clone | React Native Mobil Uygulama**
-    React Native ve Expo ile geliştirilen bu mobil uygulama, VPS sunucusundaki Strapi backend ile entegre çalışır. Dinamik kategori gezinme, ürün listeleme ve ilan oluşturma gibi özellikler sunar. NativeWind ile modern bir arayüz tasarlanmış, Expo Router ile akıcı navigasyon sağlanmıştır.
+    Sahibinden Clone, Expo tabanlı, Vps sunucumdaki Strapi v5 backend ile entegre bir mobil uygulama. Kategoriler ve alt kategoriler arasında gezinme, ürün listeleme ve ilan oluşturma özellikleri sunar. NativeWind ile modern UI ve Expo Router ile akıcı navigasyon sağladım.
     **[GitHub Reposu](https://github.com/azovayt/sahibinden-clone)**
 
 * **Bilgisayar ve Mobil Oyunlardaki Siber Zorbalık ve Tehditler (Mobil Uygulama Tasarımı)**
