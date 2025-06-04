@@ -28,11 +28,11 @@ Jandarma ve Sahil Güvenlik Akademisi'ndeki Asteğmenlik görevim süresince edi
 
 * **Commerce App | React Native Mobil Uygulama**
     E-Commerce App, E-Commerce App, React Native ve Expo tabanlı, Defacto uygulamasını referans alarak geliştirilmiş modern bir mobil uygulamadır. VPS sunucumda kurulu Strapi v5 backend'i ile entegre çalışarak dinamik ürün katalogları, kategori ve alt kategori yapıları sunar. Kullanıcılar, geniş ürün yelpazesine kolayca göz atabilir, ürün detaylarını inceleyebilir ve sorunsuz bir alışveriş deneyimi yaşayabilirler. Uygulama, NativeWind ile çağdaş bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
-    **[GitHub Reposu](https://github.com/azovayt/e-commerce-app)**
+    **[GitHub Repo](https://github.com/azovayt/e-commerce-app)**
 
 * **Listing App | React Native Mobil Uygulama**
     Listing App, React Native ve Expo tabanlı, Vps sunucumdaki Strapi v5 backend ile entegre, sahibinden.com'u referans alan bir mobil uygulama. Kategoriler ve alt kategoriler arasında gezinme, ürün listeleme ve ilan oluşturma özellikleri sunar. NativeWind ile modern UI ve Expo Router ile akıcı navigasyon sağladım.
-    **[GitHub Reposu](https://github.com/azovayt/listing-app)**
+    **[GitHub Repo](https://github.com/azovayt/listing-app)**
 
 * **Bilgisayar ve Mobil Oyunlardaki Siber Zorbalık ve Tehditler (Mobil Uygulama Tasarımı)**
     Öğrencilere siber zorbalık hakkında farkındalık kazandırmayı amaçlayan bir mobil uygulama tasarımı projesidir. **BTÖ419 Eğitim Yazılımı Tasarlama, Geliştirme ve Değerlendirme** dersi kapsamında geliştirilmiştir.
