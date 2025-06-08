@@ -7,8 +7,6 @@
 
 Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Öğretmenliği mezunu Jr. Frontend Developer olarak, kullanıcı odaklı tasarımlar ve dinamik arayüzler geliştirmeye büyük bir tutku duyuyorum. HTML5, CSS3, JavaScript, React.js ve React Native gibi modern frontend teknolojilerindeki yetkinliklerimi, hem web hem de mobil platformlarda yenilikçi ve etkili çözümler üretme hedefimle birleştiriyorum. Öğretmenlik eğitimimden gelen problem çözme ve analitik düşünme becerilerim, yazılım geliştirme süreçlerine disiplinli ve yaratıcı bir yaklaşım katmamı sağlıyor.
 
-Jandarma ve Sahil Güvenlik Akademisi'ndeki Asteğmenlik görevim süresince edindiğim liderlik, proje koordinasyonu ve kriz yönetimi deneyimlerim, yazılım geliştirme süreçlerinde ekip çalışması ve disiplinli yaklaşım konularında bana önemli katkılar sağladı. Sürekli öğrenmeye ve kendimi geliştirmeye olan bağlılığımla, teknoloji dünyasındaki en güncel gelişmeleri yakından takip ederek projelerime değer katmayı amaçlıyorum.
-
 ---
 
 ### 🌐 İletişim
