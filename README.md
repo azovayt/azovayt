@@ -1,11 +1,11 @@
 <h1 align="center">👋 Merhaba! Ben Abdulaziz Beyaz</h1>
-<h3 align="center">💻 Jr. Frontend Developer | React | React Native | Bilişim Teknolojileri ve Yazılım Öğretmeni</h3>
+<h3 align="center">💻 Jr. React Native Developer | Frontend | Reacte | Bilişim Teknolojileri ve Yazılım Öğretmeni</h3>
 
 ---
 
 ### 🌟 Hakkımda
 
-Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Öğretmenliği mezunu Jr. Frontend Developer olarak, kullanıcı odaklı tasarımlar ve dinamik arayüzler geliştirmeye büyük bir tutku duyuyorum. HTML5, CSS3, JavaScript, React.js ve React Native gibi modern frontend teknolojilerindeki yetkinliklerimi, hem web hem de mobil platformlarda yenilikçi ve etkili çözümler üretme hedefimle birleştiriyorum. Öğretmenlik eğitimimden gelen problem çözme ve analitik düşünme becerilerim, yazılım geliştirme süreçlerine disiplinli ve yaratıcı bir yaklaşım katmamı sağlıyor.
+Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Öğretmenliği mezunu Jr. React Native Developer olarak, kullanıcı odaklı tasarımlar ve dinamik arayüzler geliştirmeye büyük bir tutku duyuyorum. HTML5, CSS3, JavaScript, React.js ve React Native gibi modern frontend teknolojilerindeki yetkinliklerimi, hem web hem de mobil platformlarda yenilikçi ve etkili çözümler üretme hedefimle birleştiriyorum. Öğretmenlik eğitimimden gelen problem çözme ve analitik düşünme becerilerim, yazılım geliştirme süreçlerine disiplinli ve yaratıcı bir yaklaşım katmamı sağlıyor.
 
 ---
 
