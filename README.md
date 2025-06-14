@@ -50,9 +50,9 @@ Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Te
 
 * **Space Platform (Eğitsel Oyun - Unity)**
 
-  5. ve 6. sınıf öğrencilerine yönelik, algoritma kavramını daha iyi anlamalarını sağlamak amacıyla Unity oyun motoruyla geliştirilmiş 2D eğitsel bir oyundur. **BTÖ422 Eğitsel Oyun ve Oyunlaştırma** dersi kapsamında yapılmıştır.
+    <p>5. ve 6. sınıf öğrencilerine yönelik, algoritma kavramını daha iyi anlamalarını sağlamak amacıyla Unity oyun motoruyla geliştirilmiş 2D eğitsel bir oyundur. **BTÖ422 Eğitsel Oyun ve Oyunlaştırma** dersi kapsamında yapılmıştır.</p>
 
-     **[Proje](https://github.com/user-attachments/files/20391063/SpacePlatform.pdf)**
+  **[Proje](https://github.com/user-attachments/files/20391063/SpacePlatform.pdf)**
 
 ---
 
