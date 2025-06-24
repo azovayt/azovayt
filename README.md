@@ -24,6 +24,14 @@ Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Te
 
 ### 🚀 Öne Çıkan Projelerim
 
+* **Food App | React Native Mobil Uygulama**
+
+    Food App, React Native ve Expo tabanlı, Yemek Sepeti ve Trendyol Go gibi popüler platformları referans alarak geliştirilmiş modern bir mobil uygulamadır. Firebase'in sunduğu güçlü backend hizmetleriyle entegre çalışarak dinamik restoran listeleri, mutfak türleri ve geniş bir menü yapısı sunar. Kullanıcılar, çevrelerindeki restoranları kolayca keşfedebilir, çeşitli mutfaklardan lezzetleri inceleyebilir ve sorunsuz bir sipariş deneyimi yaşayabilirler. Uygulama, NativeWind ile modern ve duyarlı bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama, adres yönetimi ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
+
+  **[GitHub Repo](https://github.com/azovayt/food-app)**
+
+---
+
 * **Commerce App | React Native Mobil Uygulama**
 
     E-Commerce App, E-Commerce App, React Native ve Expo tabanlı, Defacto uygulamasını referans alarak geliştirilmiş modern bir mobil uygulamadır. VPS sunucumda kurulu Strapi v5 backend'i ile entegre çalışarak dinamik ürün katalogları, kategori ve alt kategori yapıları sunar. Kullanıcılar, geniş ürün yelpazesine kolayca göz atabilir, ürün detaylarını inceleyebilir ve sorunsuz bir alışveriş deneyimi yaşayabilirler. Uygulama, NativeWind ile modern bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
