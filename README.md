@@ -34,7 +34,7 @@ Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Te
 
 * **Commerce App | React Native Mobil Uygulama**
 
-    E-Commerce App, E-Commerce App, React Native ve Expo tabanlı, Defacto uygulamasını referans alarak geliştirilmiş modern bir mobil uygulamadır. VPS sunucumda kurulu Strapi v5 backend'i ile entegre çalışarak dinamik ürün katalogları, kategori ve alt kategori yapıları sunar. Kullanıcılar, geniş ürün yelpazesine kolayca göz atabilir, ürün detaylarını inceleyebilir ve sorunsuz bir alışveriş deneyimi yaşayabilirler. Uygulama, NativeWind ile modern bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
+    E-Commerce App, React Native ve Expo tabanlı, Defacto uygulamasını referans alarak geliştirilmiş modern bir mobil uygulamadır. VPS sunucumda kurulu Strapi v5 backend'i ile entegre çalışarak dinamik ürün katalogları, kategori ve alt kategori yapıları sunar. Kullanıcılar, geniş ürün yelpazesine kolayca göz atabilir, ürün detaylarını inceleyebilir ve sorunsuz bir alışveriş deneyimi yaşayabilirler. Uygulama, NativeWind ile modern bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
 
   **[GitHub Repo](https://github.com/azovayt/e-commerce-app)**
 
