@@ -90,7 +90,7 @@ Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Te
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=azovayt&show_icons=true&locale=en&theme=radical&hide_title=true" alt="Abdulaziz'in GitHub İstatistikleri" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azovayt&theme=radical&hide_title=true" alt="Abdulaziz'in GitHub Seri İstatistikleri" />
+    
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azovayt&show_icons=true&locale=en&layout=compact&theme=radical&hide_title=true" alt="Abdulaziz'in En Çok Kullandığı Diller" />
