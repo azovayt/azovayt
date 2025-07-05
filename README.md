@@ -5,7 +5,7 @@
 
 ### 🌟 Hakkımda
 
-Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Öğretmenliği mezunu bir React Native Developer’ım. HTML5, CSS3, JavaScript, React.js ve React Native gibi teknolojilerde yetkinim. Bootstrap ve Tailwind CSS ile duyarlı ve kullanıcı odaklı arayüzler tasarlıyor, React Native ile mobil uygulama geliştirme projeleri üretiyorum. Ayrıca Unity ve Blender gibi araçlarda deneyim sahibiyim. Techcareer.net’ten “Sıfırdan İleri Düzey Web Programlama”, BTK Akademi’den “JavaScript Temelleri” ve BELTEK’ten “108 Saatlik Görsel Programlama (C# ve .NET)” ile “108 Saatlik Bilgisayar Destekli Üç Boyutlu Tasarım ve Animasyon (Autodesk 3ds Max)” sertifikalarıyla teknik becerilerimi geliştirdim. Kişisel projelerle frontend ve mobil geliştirme yetkinliklerimi sürekli ilerletiyorum.
+Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Teknolojileri Öğretmenliği mezunu bir Frontend Developer’ım. HTML5, CSS3, JavaScript, React.js ve React Native gibi teknolojilerde yetkinim. Bootstrap ve Tailwind CSS ile duyarlı ve kullanıcı odaklı arayüzler tasarlıyor, React Native ile mobil uygulama geliştirme projeleri üretiyorum. Ayrıca Unity ve Blender gibi araçlarda deneyim sahibiyim. Techcareer.net’ten “Sıfırdan İleri Düzey Web Programlama”, BTK Akademi’den “JavaScript Temelleri” ve BELTEK’ten “108 Saatlik Görsel Programlama (C# ve .NET)” ile “108 Saatlik Bilgisayar Destekli Üç Boyutlu Tasarım ve Animasyon (Autodesk 3ds Max)” sertifikalarıyla teknik becerilerimi geliştirdim. Kişisel projelerle frontend ve mobil geliştirme yetkinliklerimi sürekli ilerletiyorum.
 
 ---
 
