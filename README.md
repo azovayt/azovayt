@@ -23,6 +23,14 @@ Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Te
 
 ### 🚀 Öne Çıkan Projelerim
 
+* **Expo Modular Starter | Expo İçin Modüler Başlangıç Şablonu**
+
+    Bu proje, ölçeklenebilir, bakımı kolay ve özellik odaklı mobil uygulamalar geliştirmek için tasarlanmış, iyi yapılandırılmış bir Expo başlangıç şablonudur. Proje yapısı, büyük ve karmaşık uygulamaların yönetimini basitleştirmek için Modüler Yapı prensiplerini benimser.
+
+  **[GitHub Repo](https://github.com/azovayt/expo-modular-starter)**
+
+---
+
 * **Food App | React Native Mobil Uygulama**
 
     Food App, Lider yemek sipariş platformlarından ilham alarak geliştirdiğim React Native ve Expo tabanlı modern bir mobil yemek sipariş uygulaması. Firebase'in güçlü backend hizmetleriyle entegre olarak dinamik restoran ve menü yönetimi, kullanıcı kimlik doğrulama ve adres yönetimi gibi temel modülleri hayata geçirdim. NativeWind ile duyarlı ve modern bir kullanıcı arayüzü tasarlayıp Expo Router ile akıcı bir navigasyon deneyimi sağladım. Bu proje, kapsamlı arama ve dinamik veri yönetimi yetkinliklerimi sergilemektedir.
