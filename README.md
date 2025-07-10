@@ -23,7 +23,7 @@ Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Te
 
 ### 🚀 Öne Çıkan Projelerim
 
-* **Expo Modular Starter | Expo İçin Modüler Başlangıç Şablonu**
+* **Expo Modular Starter | Expo Modüler Başlangıç Şablonu**
 
     Bu proje, ölçeklenebilir, bakımı kolay ve özellik odaklı mobil uygulamalar geliştirmek için tasarlanmış, iyi yapılandırılmış bir Expo başlangıç şablonudur. Proje yapısı, büyük ve karmaşık uygulamaların yönetimini basitleştirmek için Modüler Yapı prensiplerini benimser.
 
