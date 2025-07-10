@@ -1,5 +1,5 @@
 <h1 align="center">👋 Merhaba! Ben Abdulaziz Beyaz</h1>
-<h3 align="center">💻 Frontend Developer | React Native | React | Next.js | Bilişim Teknolojileri ve Yazılım Öğretmeni</h3>
+<h3 align="center">💻 Frontend Developer | React.js | React Native | Expo | Next.js | Bilişim Teknolojileri ve Yazılım Öğretmeni</h3>
 
 ---
 
