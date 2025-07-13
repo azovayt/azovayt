@@ -25,7 +25,7 @@ Merhaba, ben Abdulaziz BEYAZ, Hacettepe Üniversitesi Bilgisayar ve Öğretim Te
 
 * **Expo Modular Starter | Expo Modüler Başlangıç Şablonu**
 
-    Bu proje, ölçeklenebilir, bakımı kolay ve özellik odaklı mobil uygulamalar geliştirmek için tasarlanmış, iyi yapılandırılmış bir Expo başlangıç şablonudur. Proje yapısı, büyük ve karmaşık uygulamaların yönetimini basitleştirmek için Modüler Yapı prensiplerini benimser.
+    Bu proje, kendi mobil uygulama geliştirme süreçlerimi hızlandırmak ve daha düzenli hale getirmek amacıyla tasarladığım bir Expo başlangıç şablonudur. Kendi projelerimde ölçeklenebilir, bakımı kolay ve özellik odaklı uygulamalar geliştirmek için kullandığım bu şablon, Modüler Mimari prensipleriyle karmaşık yapıları basitleştirmeyi hedefler.
 
   **[GitHub Repo](https://github.com/azovayt/expo-modular-starter)**
 
