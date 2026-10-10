@@ -48,7 +48,7 @@ Aşağıda sıkça kullandığım ve projelerimde yer verdiğim teknolojileri bu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
     <br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,git,github,unity,blender,cs" />
     <br>
