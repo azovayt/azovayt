@@ -54,17 +54,3 @@ Aşağıda sıkça kullandığım ve projelerimde yer verdiğim teknolojileri bu
     <br>
   </a>
 </p>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azovayt&show_icons=true&locale=tr&theme=radical&hide_title=true" alt="Abdulaziz'in GitHub İstatistikleri" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=azovayt&show_icons=true&locale=tr&layout=compact&theme=radical&hide_title=true" alt="Abdulaziz'in En Çok Kullandığı Diller" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azovayt&theme=radical" alt="GitHub Streak" />
-</p>
-
----
