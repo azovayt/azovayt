@@ -57,54 +57,6 @@ Aşağıda sıkça kullandığım ve projelerimde yer verdiğim teknolojileri bu
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
-
-Projelerimde temiz kod, modüler mimari ve en iyi kullanıcı deneyimini ön planda tutuyorum.
-
-#### 📦 Expo Modular Starter | Expo Modüler Başlangıç Şablonu
-> Kendi mobil uygulama geliştirme süreçlerimi hızlandırmak için tasarladığım, modüler mimari prensiplerine dayalı bir Expo başlangıç şablonu. Ölçeklenebilir, bakımı kolay ve özellik odaklı uygulamalar geliştirmeyi hedefler.
-> 
-> **Teknolojiler:** `React Native`, `Expo`, `TypeScript`
-> 
-> **[📂 GitHub Reposu](https://github.com/azovayt/expo-modular-starter)**
-
----
-
-#### 🍔 Food App | React Native Mobil Yemek Sipariş Uygulaması
-> Lider yemek sipariş platformlarından ilham alarak geliştirdiğim modern bir mobil uygulama. Firebase entegrasyonu ile dinamik menü yönetimi, kullanıcı kimlik doğrulama ve adres yönetimi gibi özellikler içerir.
-> 
-> **Teknolojiler:** `React Native`, `Expo`, `Firebase`, `NativeWind`, `Expo Router`
-> 
-> **[📂 GitHub Reposu](https://github.com/azovayt/food-app)**
-
----
-
-#### 🛒 E-Commerce App | React Native Mobil E-Ticaret Uygulaması
-> Defacto uygulamasını referans alarak geliştirdiğim, Strapi v5 backend ile entegre modern bir e-ticaret uygulaması. Dinamik ürün katalogları, kategori yapıları ve akıcı bir alışveriş deneyimi sunar.
-> 
-> **Teknolojiler:** `React Native`, `Expo`, `Strapi CMS`, `NativeWind`, `Expo Router`
-> 
-> **[📂 GitHub Reposu](https://github.com/azovayt/e-commerce-app)**
-
----
-
-#### 🏡 Listing App | React Native İlan Uygulaması
-> Sahibinden.com'u referans alan, Strapi v5 backend ile entegre bir mobil ilan listeleme uygulaması. Kategori bazlı gezinme, ürün listeleme ve ilan oluşturma gibi temel özelliklere sahiptir.
-> 
-> **Teknolojiler:** `React Native`, `Expo`, `Strapi CMS`, `NativeWind`, `Expo Router`
-> 
-> **[📂 GitHub Reposu](https://github.com/azovayt/listing-app)**
-
----
-
-#### 🎓 Akademik ve Diğer Projeler
-> - **Siber Zorbalık Farkındalık Uygulaması:** Öğrencilere yönelik tasarlanmış bir mobil uygulama konsepti. **[PDF Dosyası](https://github.com/user-attachments/files/20391035/MobileAppMockup.pdf)**
-> - **Space Platform (Eğitsel Oyun):** 5. ve 6. sınıf öğrencileri için algoritma mantığını öğretmeyi amaçlayan, Unity ile geliştirilmiş 2D bir oyun. **[PDF Dosyası](https://github.com/user-attachments/files/20391063/SpacePlatform.pdf)**
-
-<br>
-
----
-
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
